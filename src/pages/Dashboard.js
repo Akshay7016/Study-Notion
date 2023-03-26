@@ -2,7 +2,9 @@ import React from 'react'
 
 const Dashboard = () => {
   return (
-    <div>Welcome to StudyNotion</div>
+    <div className='flex justify-center text-white text-3xl h-full my-auto'>
+      Welcome to StudyNotion
+    </div>
   )
 }
 
